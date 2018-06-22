@@ -1,0 +1,23 @@
+{
+    "sEmptyTable":     "Nema podataka za prikazivanje",
+    "sInfo":           "Prikazano _START_ do _END_ od _TOTAL_ redova",
+    "sInfoEmpty":      "Prikazano 0 do 0 od 0 redova",
+    "sInfoFiltered":   "(filtrirano od _MAX_ ukupnih redova)",
+    "sInfoPostFix":    "",
+    "sInfoThousands":  ",",
+    "sLengthMenu":     "Prikazano _MENU_ redova",
+    "sLoadingRecords": "Ucitava se...",
+    "sProcessing":     "Procesira se...",
+    "sSearch":         "Pretraga:",
+    "sZeroRecords":    "Nije pronadjeno nista za zeljenu pretragu",
+    "oPaginate": {
+        "sFirst":    "Prva",
+        "sLast":     "Poslednja",
+        "sNext":     "Sledeca",
+        "sPrevious": "Prethodna"
+    },
+    "oAria": {
+        "sSortAscending":  ": aktivno uzlazno sortiranje",
+        "sSortDescending": ": aktivno silazno sortiranje"
+    }
+}
